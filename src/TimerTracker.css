@@ -1,0 +1,60 @@
+/* TimerTracker.css */
+
+.container {
+    min-height: 100vh;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+}
+
+.timer-display {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.toggle-button {
+    padding: 0.5rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.start {
+    background-color: #28a745;
+}
+
+.stop {
+    background-color: #dc3545;
+}
+
+.logs {
+    margin-top: 2rem;
+    text-align: left;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logs-title {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.logs-list {
+    list-style: disc;
+    padding-left: 1.2rem;
+}
+
+.log-item {
+    margin-bottom: 0.3rem;
+}
