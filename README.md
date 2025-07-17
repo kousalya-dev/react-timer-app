@@ -8,7 +8,7 @@ A simple and effective **React-based Start/Stop Timer** that logs the duration e
 
 - ✅ Start/Stop timer functionality
 - ✅ Logs each stopped session with real-time date and time
-- ✅ Displays session logs on screen
+- ✅ Displays session logs on screen with time and date
 - ✅ Built with React functional components and hooks
 - ✅ Styled with clean custom CSS (no external frameworks)
 
