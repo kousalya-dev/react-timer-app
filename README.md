@@ -19,5 +19,5 @@ A simple and effective **React-based Start/Stop Timer** that logs the duration e
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/react-timer-tracker.git
+git clone https://github.com/kousalya-dev/react-timer-tracker.git
 cd react-timer-tracker
